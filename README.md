@@ -1,7 +1,7 @@
 ```mermaid
 
 flowchart TD
-    A(["Exemplo"])
+    A(["Inicio"])
     A --> B{"Faça um Escolha"}
     B --> C["A"]
     B --> E["B"]
