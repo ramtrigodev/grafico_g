@@ -1,10 +1,8 @@
 ```mermaid
-flowchart ID
-
-   A(["Inicio"])
-   A --> B{"Faça uma escolha"}
-   B --> C["OP1"]
-   B --> D["OP2"]
-   B --> E["OP3"] 
-     
+flowchart TD
+    A(["Exemplo"])
+    A --> B{"Faça um Escolha"}
+    B --> C["A"]
+    B --> E["B"]
+    B --> D["C"]
 ```
