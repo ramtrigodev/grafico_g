@@ -6,3 +6,10 @@ flowchart TD
     B --> D["OP2"]
     B --> E["OP3"]
 ```
+```mermaid
+graph TD;
+  A[inicio] --> B{Nota >6};
+  B -->|Sim| C[Aprovado];
+ B --> |Não| D[Reprovado];
+
+```
