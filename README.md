@@ -1,4 +1,4 @@
-```mermaid
+``mermaid
 flowchart TD
     A([Inicio])
     A --> B{"Faça um Escolha"}
@@ -19,7 +19,7 @@ gantt
    title Exemplo de Gráfico de Gantt
    dateFormat YYYY-MM-DD 
    section 1ºSemestre
-   1º Bimestre :a1, 2025-02-02, 60d
-   2º Bimestre :a2, after a1, 60d
+   1º Bimestre ✅ Finalizado:a1, 2025-02-02, 60d
+   2º Bimestre ✅ Finalizado:a2, after a1, 60d
    section 2º Semestre
 ```
