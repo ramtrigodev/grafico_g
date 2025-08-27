@@ -1,9 +1,8 @@
 ```mermaid
-
 flowchart TD
     A(["Inicio"])
     A --> B{"Faça um Escolha"}
-    B --> C["A"]
-    B --> E["B"]
-    B --> D["C"]
+    B --> C["OP1"]
+    B --> D["OP2"]
+    B --> E["OP3"]
 ```
