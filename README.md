@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD
-    A(["Inicio"])
+    A([Inicio])
     A --> B{"Faça um Escolha"}
     B --> C["OP1"]
     B --> D["OP2"]
