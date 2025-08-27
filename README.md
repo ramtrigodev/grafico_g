@@ -1,4 +1,5 @@
 ```mermaid
+
 flowchart TD
     A(["Exemplo"])
     A --> B{"Faça um Escolha"}
